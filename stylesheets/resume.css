@@ -261,6 +261,20 @@ ul {
 	text-shadow: 1px 1px white;
 }
 
+.datelong {
+	position: absolute;
+	top: 105px;
+	left: -242px;
+	width: 200px;
+	height: 24px;
+	padding-top: 10px;
+	background: #ddd;
+	border: 1px solid #ccc;
+	font-size: 14px;
+	text-align: center;
+	text-shadow: 1px 1px white;
+}
+
 #printable_banner {
 	text-decoration: none;
 	display: block;
