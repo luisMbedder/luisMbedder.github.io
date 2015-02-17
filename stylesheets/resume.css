@@ -66,6 +66,19 @@ h5 {
 	text-shadow: 1px 1px white;
 }
 
+h6 {
+	position: relative;
+	background: #0aaed1;
+	font-size: 24px;
+	color: white;
+	font-weight: bold;
+	width: 180px;
+	padding: 7px 20px 7px 20px;
+	margin: 0;
+	float: left;
+}
+
+
 a:link {
 	color: #666;
 }
@@ -147,6 +160,15 @@ ul {
 	background: url(../images/h3left.jpg) top left no-repeat;
 	width: 14px;
 	height: 49px;
+	position: absolute;
+	top: 0;
+	left: -14px;
+}
+
+.leftheadlong {
+	background: url(../images/h3leftlong.jpg) top left no-repeat;
+	width: 14px;
+	height: 83px;
 	position: absolute;
 	top: 0;
 	left: -14px;
